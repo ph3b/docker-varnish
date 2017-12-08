@@ -44,3 +44,4 @@ You can configure Varnish daemon by following env variables:
 ---
 
 **Sponsored by** [Typostrap.io - the new prototyping tool](http://typostrap.io/) for building highly-interactive prototypes of your website or web app. Built on top of TYPO3 Neos CMS and Zurb Foundation framework.
+
